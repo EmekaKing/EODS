@@ -1,2 +1,0 @@
-# EODS
-geospatial py development
